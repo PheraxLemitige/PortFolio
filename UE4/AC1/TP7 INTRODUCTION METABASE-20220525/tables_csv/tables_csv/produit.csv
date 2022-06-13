@@ -1,0 +1,6 @@
+"pk_produit","ref","libelle","fk_cat","pu_ht"
+"1","PDT_A","PRODUIT_A","1","150"
+"2","PDT_B","PRODUIT_B","2","90"
+"3","PDT_C","PRODUIT_C","2","45"
+"4","PDT_D","PRODUIT_D","0","250"
+"5","PDT_E","PRODUIT_E","1","30"
